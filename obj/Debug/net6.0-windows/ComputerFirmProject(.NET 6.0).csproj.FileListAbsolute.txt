@@ -1,0 +1,81 @@
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\ComputerFirmProject(.NET 6.0).exe
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\ComputerFirmProject(.NET 6.0).deps.json
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\ComputerFirmProject(.NET 6.0).runtimeconfig.json
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\ComputerFirmProject(.NET 6.0).dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\ComputerFirmProject(.NET 6.0).pdb
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject_.NET_6._0_.Form1.resources
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject(.NET 6.0).csproj.GenerateResource.cache
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject(.NET 6.0).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject(.NET 6.0).AssemblyInfoInputs.cache
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject(.NET 6.0).AssemblyInfo.cs
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject(.NET 6.0).csproj.CoreCompileInputs.cache
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject(.NET 6.0).dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\refint\ComputerFirmProject(.NET 6.0).dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject(.NET 6.0).pdb
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject(.NET 6.0).genruntimeconfig.cache
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ref\ComputerFirmProject(.NET 6.0).dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject_.NET_6._0_.AdminForm.resources
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\System.ClientModel.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject(.NET 6.0).csproj.AssemblyReference.cache
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\Computer.C80CBB29.Up2Date
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject_.NET_6._0_.AuthorizationForm.resources
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject_.NET_6._0_.RegisterNewAccountForm.resources
