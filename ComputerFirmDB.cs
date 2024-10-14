@@ -40,6 +40,9 @@ namespace ComputerFirmProject_.NET_6._0_
             command.Connection = connection;
             InitializeTables();
             InitializeStartCommands();
+            InitializeMemoryCommands();
+            InitializeProcessorCommands();
+            InitializeVideoCardsCommands();
         }
 
         private void InitializeTables()
@@ -61,17 +64,28 @@ namespace ComputerFirmProject_.NET_6._0_
             command.ExecuteNonQuery();
             command.CommandText = CREATE_INSERT_COMMAND_TO_INSERT_ADMIN_IN_USERS;
             command.ExecuteNonQuery();
+        }
+        private void InitializeProcessorCommands()
+        {
             command.CommandText = CREATE_INSERT_COMMAND_TO_INSERT_FIRST_PROCESSOR_IN_COMPUTER_COMPONENTS_DB;
-            command.ExecuteNonQuery();
-            command.CommandText = CREATE_INSERT_COMMAND_TO_INSERT_FIRST_MEMORY_IN_COMPUTER_COMPONENTS_DB;
-            command.ExecuteNonQuery();
-            command.CommandText = CREATE_INSERT_COMMAND_TO_INSERT_FIRST_VIDEOCARD_IN_COMPUTER_COMPONENTS_DB;
             command.ExecuteNonQuery();
             command.CommandText = CREATE_INSERT_COMMAND_TO_INSERT_SECOND_PROCESSOR_IN_COMPUTER_COMPONENTS_DB;
             command.ExecuteNonQuery();
-            command.CommandText = CREATE_INSERT_COMMAND_TO_INSERT_SECOND_MEMORY_IN_COMPUTER_COMPONENTS_DB;
+        }
+
+        private void InitializeVideoCardsCommands()
+        {
+            command.CommandText = CREATE_INSERT_COMMAND_TO_INSERT_FIRST_VIDEOCARD_IN_COMPUTER_COMPONENTS_DB;
             command.ExecuteNonQuery();
             command.CommandText = CREATE_INSERT_COMMAND_TO_INSERT_SECOND_VIDEOCARD_IN_COMPUTER_COMPONENTS_DB;
+            command.ExecuteNonQuery();
+        }
+
+        private void InitializeMemoryCommands()
+        {
+            command.CommandText = CREATE_INSERT_COMMAND_TO_INSERT_FIRST_MEMORY_IN_COMPUTER_COMPONENTS_DB;
+            command.ExecuteNonQuery();
+            command.CommandText = CREATE_INSERT_COMMAND_TO_INSERT_SECOND_MEMORY_IN_COMPUTER_COMPONENTS_DB;
             command.ExecuteNonQuery();
         }
 
