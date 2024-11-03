@@ -31,8 +31,8 @@
             CreateNewAccount_button = new Button();
             LoginRegisterInput_label = new Label();
             InputRegisterPassword_label = new Label();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
+            Login_TextBox = new TextBox();
+            Password_TextBox = new TextBox();
             SuspendLayout();
             // 
             // CreateNewAccount_button
@@ -63,32 +63,32 @@
             InputRegisterPassword_label.TabIndex = 2;
             InputRegisterPassword_label.Text = "Пароль";
             // 
-            // textBox1
+            // Login_TextBox
             // 
-            textBox1.Location = new Point(12, 70);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(322, 23);
-            textBox1.TabIndex = 3;
+            Login_TextBox.Location = new Point(12, 70);
+            Login_TextBox.Name = "Login_TextBox";
+            Login_TextBox.Size = new Size(322, 23);
+            Login_TextBox.TabIndex = 3;
             // 
-            // textBox2
+            // Password_TextBox
             // 
-            textBox2.Location = new Point(12, 146);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(322, 23);
-            textBox2.TabIndex = 4;
+            Password_TextBox.Location = new Point(12, 146);
+            Password_TextBox.Name = "Password_TextBox";
+            Password_TextBox.Size = new Size(322, 23);
+            Password_TextBox.TabIndex = 4;
             // 
-            // RegisterNewAccountFormcs
+            // RegisterNewAccountForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(346, 263);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            Controls.Add(Password_TextBox);
+            Controls.Add(Login_TextBox);
             Controls.Add(InputRegisterPassword_label);
             Controls.Add(LoginRegisterInput_label);
             Controls.Add(CreateNewAccount_button);
             FormBorderStyle = FormBorderStyle.FixedSingle;
-            Name = "RegisterNewAccountFormcs";
+            Name = "RegisterNewAccountForm";
             Text = "Регистрация";
             ResumeLayout(false);
             PerformLayout();
@@ -99,7 +99,7 @@
         private Button CreateNewAccount_button;
         private Label LoginRegisterInput_label;
         private Label InputRegisterPassword_label;
-        private TextBox textBox1;
-        private TextBox textBox2;
+        private TextBox Login_TextBox;
+        private TextBox Password_TextBox;
     }
 }

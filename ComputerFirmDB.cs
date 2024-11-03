@@ -19,6 +19,7 @@ namespace ComputerFirmProject_.NET_6._0_
         private const string CREATE_INSERT_COMMAND_TO_INSERT_THIRD_WORKER_IN_COMPUTER_FIRM_DB = "INSERT INTO COMPUTER_FIRM_WORKERS(FirstName, LastName, Age) VALUES ('Оксана', 'Милонова', 26)";
 
         private const string CREATE_INSERT_COMMAND_TO_INSERT_ADMIN_IN_USERS = "INSERT INTO USERS(Login, Password) VALUES ('Admin', 'Admin')";
+        private const string CREATE_INSERT_COMMAND_TO_INSERT_FIRST_USER_IN_USERS = "INSERT INTO USERS(Login, Password) VALUES ('finral_123', 'password')";
 
         private const string CREATE_INSERT_COMMAND_TO_INSERT_FIRST_PROCESSOR_IN_COMPUTER_COMPONENTS_DB = "INSERT INTO COMPUTER_COMPONENTS(ComponentName, Type, Price) VALUES ('AMD Ryzen 5 3400G, AM4, OEM', 'Процессор', '8500 руб.')";
         private const string CREATE_INSERT_COMMAND_TO_INSERT_SECOND_PROCESSOR_IN_COMPUTER_COMPONENTS_DB = "INSERT INTO COMPUTER_COMPONENTS(ComponentName, Type, Price) VALUES ('Процессор Intel Core i7 12700KF, LGA 1700, OEM', 'Процессор', '27990 руб.')";
@@ -63,6 +64,8 @@ namespace ComputerFirmProject_.NET_6._0_
             command.CommandText = CREATE_INSERT_COMMAND_TO_INSERT_THIRD_WORKER_IN_COMPUTER_FIRM_DB;
             command.ExecuteNonQuery();
             command.CommandText = CREATE_INSERT_COMMAND_TO_INSERT_ADMIN_IN_USERS;
+            command.ExecuteNonQuery();
+            command.CommandText = CREATE_INSERT_COMMAND_TO_INSERT_FIRST_USER_IN_USERS;
             command.ExecuteNonQuery();
         }
         private void InitializeProcessorCommands()
@@ -113,12 +116,18 @@ namespace ComputerFirmProject_.NET_6._0_
         public void DeleteComputerComponentToDB(string componentName)
         {
             string sqlExpression = $"DELETE FROM COMPUTER_COMPONENTS WHERE ComponentName={componentName}";
+            command.CommandText = sqlExpression;
+            command.ExecuteNonQuery();
         }
 
-        public void RegisterNewUserInUsersTable(string login, string password)
+        public bool RegisterNewUserInUsersTable(string userLogin, string userPassword)
         {
-
+            string sqlExpression = $"INSERT INTO USERS(Login, Password) VALUES ('{userLogin}', '{userPassword}')";
+            command.CommandText = sqlExpression;
+            command.ExecuteNonQuery();
+            return true;
         }
+
 
     }
 }

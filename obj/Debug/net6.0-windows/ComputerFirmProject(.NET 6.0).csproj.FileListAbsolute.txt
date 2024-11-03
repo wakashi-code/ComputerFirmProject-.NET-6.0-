@@ -79,3 +79,5 @@ C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(
 C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject_.NET_6._0_.AuthorizationForm.resources
 C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject_.NET_6._0_.RegisterNewAccountForm.resources
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject(.NET 6.0).sourcelink.json
+C:\Users\wakashi\source\repos\ComputerFirmProject(.NET 6.0)\ComputerFirmProject(.NET 6.0)\obj\Debug\net6.0-windows\ComputerFirmProject_.NET_6._0_.BuyComponentsToDBForm.resources

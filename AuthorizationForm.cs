@@ -22,5 +22,15 @@ namespace ComputerFirmProject_.NET_6._0_
             RegisterNewAccountForm registerNewAccountForm = new RegisterNewAccountForm();
             registerNewAccountForm.Show();
         }
+
+        private void EnterInAccount_button_Click(object sender, EventArgs e)
+        {
+            if(EnterTheLoginToEnterInAccount_textBox.Text == "admin" && EnterThePasswordToEnterInAccount_textBox.Text == "admin")
+            {
+                AdminForm adminForm = new AdminForm();
+                adminForm.Show();
+            }
+            //else if() Сделать проверку на логин из базы данных
+        }
     }
 }

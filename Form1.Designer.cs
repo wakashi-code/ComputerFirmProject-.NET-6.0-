@@ -46,7 +46,7 @@
             // 
             // BuyComputerComponents_button
             // 
-            BuyComputerComponents_button.Location = new Point(229, 192);
+            BuyComputerComponents_button.Location = new Point(229, 205);
             BuyComputerComponents_button.Name = "BuyComputerComponents_button";
             BuyComputerComponents_button.Size = new Size(206, 27);
             BuyComputerComponents_button.TabIndex = 1;
@@ -62,6 +62,7 @@
             Service_button.TabIndex = 2;
             Service_button.Text = "Сервисный отдел";
             Service_button.UseVisualStyleBackColor = true;
+            Service_button.Click += Service_button_Click;
             // 
             // CallBrigade_button
             // 
@@ -77,13 +78,14 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ActiveBorder;
             ClientSize = new Size(800, 450);
             Controls.Add(CallBrigade_button);
             Controls.Add(Service_button);
             Controls.Add(BuyComputerComponents_button);
             Controls.Add(Admin_button);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Главный зал";
             ResumeLayout(false);
         }
 
